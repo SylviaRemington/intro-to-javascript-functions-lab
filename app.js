@@ -1,5 +1,6 @@
 
 //FROM FEBRUARY 24TH, 2025 MATT HUNTINGTON CLASS --FIRST TIME CREATING FUNCTIONS
+//from first week at GA in Matt Huntington's Class
 /*
 Exercise 1: maxOfTwoNumbers()
 
